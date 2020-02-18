@@ -1,0 +1,284 @@
+@font-face {
+    font-family: 'Mono Social Icons Font';
+    src: url('MonoSocialIconsFont-1.10.eot');
+    src: url('MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+         url('MonoSocialIconsFont-1.10.woff') format('woff'),
+         url('MonoSocialIconsFont-1.10.ttf') format('truetype'),
+         url('MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+    src: url('MonoSocialIconsFont-1.10.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.symbol, a.symbol:before {
+    font-family: 'Mono Social Icons Font';
+    -webkit-text-rendering: optimizeLegibility;
+    -moz-text-rendering: optimizeLegibility;
+    -ms-text-rendering: optimizeLegibility;
+    -o-text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -ms-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+a.symbol:before {
+    content: attr(title);
+    margin-right: 0.3em;
+    font-size: 130%;
+}
+
+
+#containercontact{
+width:1782px;
+height:1362px;
+color:white;
+
+
+}
+.partie1contact{
+margin-top:-500px;
+background-color: rgba(0,0,0,0.5);
+}
+.photogrise{
+
+
+width:1782px;
+opacity:1;
+justify-content: center;
+}
+
+.listecontact li {
+margin-top:650px;
+margin-bottom:-880px;
+ display: flex;
+ justify-content: space-between;
+ text-decoration: none;
+ color:#cfa205;
+}
+
+.listecontact nav{
+margin-top:-1700px;
+color:white;
+color:white;
+width:634px;
+text-decoration:none;
+margin-right:367px;
+margin-left:540px;
+display:flex;    
+justify-content: space-between;
+
+}
+
+.home{
+margin-right: 40px;
+}
+
+.bio{
+margin-right: 40px;
+}
+
+.photos{
+margin-right: 40px;
+}
+
+.music{
+margin-right: 40px;
+}
+
+.videos{
+margin-right: 40px;
+}
+
+.news{
+margin-right: 40px;
+}
+
+.tour{
+margin-right: 40px;
+}
+
+.maintitlecontact{
+margin-top:765px;
+width:510px;
+margin-left: 630px;
+text-align: center;	
+justify-content: center;
+font-size:50px;  <div class="about">
+<h5> ABOUT OBSIDIAN</h5>
+<p>The Obsidian theme, like the naturally
+  occurring volcanic glass of the same name,
+  possesses an inherent allure that's stylish in
+  appearance and practical in purpose. With
+  distinctive background options and various
+  customization possibilities, Obsidian makes
+  it easy to create the ultimate hub for your
+  online identity.
+</p> 
+</div>
+<div class="vivienne">
+<p>VIVIENNE'S OMITTED LINE</p>
+<img src="images/album-03-300x300.jpg">
+</div>
+<div class="recent">
+<h5> RECENT POSTS</h5>	
+<p class="welcome"> Welcome to our redesign website</p>
+<p>APRIL 1, 2015 </p>
+<p class="titreNew"> New tour date posted</P>
+<p class="titreHistory">History of Popular Music</p>
+<p>DECEMBER 15, 2014</p>
+</div>
+}
+.soustitreviv {
+text-align: center;	
+justify-content: center;
+margin-top:89px;
+margin-left:0px;
+margin-right:760px;
+margin-bottom:23px;
+}
+
+.partie2{
+margin-top:250px;
+margin-left:134px;	
+margin-right:134px;
+border:1px white solid;
+border-right:transparent;
+border-left:transparent;
+}
+
+.listemusic{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:60px;
+padding-left:700px;	
+}
+
+
+.burial{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:30px;
+}
+
+.dirge{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:30px;
+}
+.thefiresermon{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:30px;
+
+}
+.thefisherking{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:30px;
+
+}
+.gameofchess{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:30px;
+
+}
+.vivienneomittedline{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:30px;
+
+}
+.whatthethundersaid{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;
+margin-bottom:30px;
+}
+.thewoundedking{
+border:1px solid white;
+border-right:transparent;
+border-left: transparent;	
+margin-bottom:30px;
+}
+
+.list3mots{
+margin-top:-545px;
+margin-left:450px;
+border-bottom:transparent;
+color:white;
+}
+
+.footer{
+background-color:black;
+color:white;	
+}
+
+#partie3{
+text-align:left;
+align-items: center;
+display:inline-flex;
+padding-top:30px;
+margin-top:30px;
+border:1px white solid;
+border-right:transparent;
+border-left:transparent;
+}
+.about{
+
+margin-right:30px;
+width:300px;
+height:248px;
+text-align:justify;
+display:block;
+justify-content:center;
+margin-left:300px;
+
+}
+.titrevivienne{
+
+}
+
+.guitariste{
+
+
+width:339px;
+height:191px;
+margin-right:30px;
+
+}
+.recent{
+text-align: center;
+text-align:justify;
+margin-right:300px;
+}
+
+.reseauxsociaux {
+margin-top:100px;
+color:white;  
+text-decoration: none;     
+text-align: center;
+      }
+ 
+.reseauxsociaux ul li {
+display: inline-flex;
+
+}
+.texticônes{
+text-align:center;
+background-color:black;
+margin-top:30px;
+margin-bottom:90px;
+padding-bottom:30px;
+
+}

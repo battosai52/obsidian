@@ -1,0 +1,76 @@
+
+#bloc{
+
+	width: 1100px;
+	height: 1000px;
+	border: 1px solid black;
+	margin: auto;
+}
+#bloc img{
+	border: 1px solid black;
+}
+
+.l1{
+	display: flex;
+	width: 730px;
+	height: 490px;
+}
+.l11{
+	display: flex;
+	width: 370px;
+	height: 245px;
+}
+
+.l2{
+	display: flex;
+	width: 1100px;
+	height: 300px;
+}
+
+.l21{
+	display: flex;
+	width: 445px;
+	height: 300px;
+
+}
+.l22{
+	display: flex;
+	width: 455px;
+	height: 300px;
+
+}
+
+.l23{
+	display: flex;
+	width: 200px;
+	height: 300px;
+}
+.l3{
+	display: flex;
+	width: 1100px;
+	height: 210px;
+}
+
+.l31{
+	display: flex;
+	width: 320px;
+	height: 210px;
+
+}
+.l32{
+	display: flex;
+	width: 320px;
+	height: 210px;
+
+}
+
+.l33{
+	display: flex;
+	width: 145px;
+	height: 210px;
+}
+.l34{
+	display: flex;
+	width: 315px;
+	height: 210px;
+}

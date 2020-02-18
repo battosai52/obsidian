@@ -1,0 +1,123 @@
+#containercontact{
+    width:1782px;
+    height:1362px;
+}
+
+.partie1contact{
+    padding-top:68px;
+}
+
+.listecontact li{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color:#cfa205;
+}
+
+.listecontact nav{
+    color:white;
+    width:634px;
+    text-decoration:none;
+    margin-right:367px;
+    margin-left:368px;
+    display:flex;
+    justify-content: space-between;
+    padding-bottom:75px;
+}
+
+.home{
+    margin-right: 40px;
+}
+
+.bio{
+    margin-right: 40px;
+}
+
+.photos{
+    margin-right: 40px;
+}
+
+.music{
+    margin-right: 40px;
+}
+
+.videos{
+    margin-right: 40px;
+}
+
+.news{
+    margin-right: 40px;
+}
+
+.tour{
+    margin-right: 40px;
+}
+
+.maintitlecontact{
+    width:510px;
+    margin-left: 450px;
+    text-align: center;	
+    justify-content: center;
+    font-size:50px;
+}
+.soustitre{
+    text-align: center;	
+    justify-content: center;
+    margin-top:89px;
+    margin-left:240px;
+    margin-right:605px;
+    margin-bottom:23px;
+}
+.partie2{
+    margin-top:250px;
+    margin-left:134px;	
+    margin-right:134px;
+    border:1px grey solid;
+    border-right:transparent;
+    border-left:transparent;}
+.formtext{
+    margin-top:-388px;
+    margin-left:825px;	
+    padding-right:200px;
+    margin-right:35px;
+}
+.partie3{
+    
+    
+    border:1px grey solid;
+    border-right:transparent;
+    border-left:transparent;
+    border-top:transparent;
+}
+.about{
+    
+    /* margin-left:134px;	
+    padding-right:134px; */
+  
+}
+
+.vivienne{
+    margin-top:-200px;
+    margin-left:600px;	
+}
+
+.recent{
+    margin-top:-75px;
+    margin-left:955px;
+}
+
+.reseauxsociaux {
+    color:white;text-decoration: none;
+    text-align: center;
+}
+
+.reseauxsociaux ul li {
+    display: inline-flex;
+}
+
+.texticônes{
+    margin-left:550px;
+}
+
+    
+    

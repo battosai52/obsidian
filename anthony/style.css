@@ -1,0 +1,39 @@
+.corps{
+
+    text-align: left;
+    width: 719px;
+}
+
+.cotédroit{
+
+width:250px; 
+height:20px; 
+position:absolute;
+top:50px;
+right:250px;
+}
+
+.searchbar{
+
+width: 340px;;
+position: relative;
+display: flex;
+}
+      
+.searchTerm {
+width: 100%;
+border: 3px solid;
+         padding: 5px; 
+        height: 20px;
+          outline: none;
+        color: gray;
+      }
+      
+      .femme{
+
+        width: 1000px; 
+        height: 1000px;
+      }
+     
+      
+     
